@@ -9,7 +9,7 @@ This is a restful API with most of the features of a blog which authors also can
 
 * First of all clone the project:
 ```
-git clone https://github.com/EngRobot33/Blog-API.git
+git clone https://github.com/HaamedKhosravii/Blog-API.git
 ```
 * Then, we need a virtual environment you can create like this:
 ```
